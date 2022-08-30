@@ -3,7 +3,7 @@
 
 -🔥 Junior Web Developer & Professional Computer Instructor.
 
--🏡 I live with my wife in Antas-Famalição / Portugal.
+-🏡 I live with my wife in Antas-Famalicão / Portugal.
 
 -🔭 Currently I'm studying a specialization and a Master's in Software Engineering at (IPCA) .
 
