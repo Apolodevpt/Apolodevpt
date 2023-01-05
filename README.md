@@ -7,9 +7,7 @@
 
 -🔭 Currently I'm studying a specialization and a Master's in Software Engineering at (IPCA) .
 
--💬 Ask me about JavaScript, HTML, CSS, SQL, Reactjs, Bootstrap.
-
-
+-💬 Ask me about JavaScript, HTML, CSS, SQL, Rectjs, Bootstrap,  PHP .
 
 
 ## Contact
